@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+asyncpg
+pydantic-settings
+requests
+pandas
+numpy
+scipy
+yfinance
+alembic
+py-vollib
+pytz
+httpx
+apscheduler
+python-dotenv
+# Native desktop client (optional for API-only deployments)
+PyQt6>=6.6
+pyqtgraph>=0.13

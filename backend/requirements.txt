@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+asyncpg
+pydantic-settings
+requests
+pandas
+numpy
+scipy
+yfinance
+alembic
+py-vollib
+pytz
+httpx
+apscheduler
+python-dotenv

@@ -1,0 +1,4 @@
+# Development and packaging tools. Web/API dependencies remain in requirements.txt.
+-r requirements.txt
+pytest
+pyinstaller>=6.0

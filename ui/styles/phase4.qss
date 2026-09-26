@@ -1,0 +1,4 @@
+QFrame#phase4Panel { background: #0e161f; border: 1px solid #26384a; border-radius: 3px; padding: 8px; }
+QLabel#panelHeading { color: #45d6d2; font: 11px "DM Mono"; letter-spacing: 1px; }
+QLabel#panelBody { color: #c9d2df; padding: 6px; }
+QPushButton#accentButton { background: #123135; color: #45d6d2; border: 1px solid #2b7775; padding: 8px; }
