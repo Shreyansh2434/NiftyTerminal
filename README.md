@@ -1,4 +1,3 @@
-<div align="center">
 <br/>
 
 # 📈 NIFTY Options Intelligence Terminal
@@ -6,10 +5,10 @@
 ### *Real-Time Options Analytics • AI Research Copilot • Walk-Forward Backtesting • Self-Sovereign Execution Safety*
 
 <br/>
-[![Live Frontend](https://img.shields.io/badge/FRONTEND-VITE%2FREACT-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://claude.ai/new?incognito=#-live-deployment)
-[![Backend API](https://img.shields.io/badge/BACKEND%20API-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://claude.ai/new?incognito=#-api-reference)
+[![Live Frontend](https://img.shields.io/badge/FRONTEND-VITE%2FREACT-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#installation--setup)
+[![Backend API](https://img.shields.io/badge/BACKEND%20API-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#api-reference)
 [![GitHub](https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyansh2434/NiftyTerminal)
-[![Health](https://img.shields.io/badge/API%20HEALTH-STATUS-brightgreen?style=for-the-badge)](https://claude.ai/new?incognito=#-api-reference)
+[![Health](https://img.shields.io/badge/API%20HEALTH-STATUS-brightgreen?style=for-the-badge)](#api-reference)
 
 <br/>
 ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -24,8 +23,6 @@
 ![NSE](https://img.shields.io/badge/NSE-Market%20Data-0066CC?style=flat-square)
 ![yfinance](https://img.shields.io/badge/yfinance-Fallback-8B00FF?style=flat-square)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-499848?style=flat-square)
-
-</div>
 
 ---
 
