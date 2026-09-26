@@ -1,30 +1,32 @@
-<br/>
+<h1 align="center">📈 NIFTY Options Intelligence Terminal</h1>
 
-# 📈 NIFTY Options Intelligence Terminal
+<p align="center">
+  <strong>Real-Time Options Analytics • AI Research Copilot • Walk-Forward Backtesting • Self-Sovereign Execution Safety</strong>
+</p>
 
-### *Real-Time Options Analytics • AI Research Copilot • Walk-Forward Backtesting • Self-Sovereign Execution Safety*
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND-VITE%2FREACT-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Frontend: Vite and React" />
+  <img src="https://img.shields.io/badge/BACKEND%20API-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend API: FastAPI" />
+  <a href="https://github.com/Shreyansh2434/NiftyTerminal"><img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code on GitHub" /></a>
+  <a href="#api-reference"><img src="https://img.shields.io/badge/API%20HEALTH-STATUS-brightgreen?style=for-the-badge" alt="API health status" /></a>
+</p>
 
-<br/>
-[![Live Frontend](https://img.shields.io/badge/FRONTEND-VITE%2FREACT-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#installation--setup)
-[![Backend API](https://img.shields.io/badge/BACKEND%20API-FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#api-reference)
-[![GitHub](https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyansh2434/NiftyTerminal)
-[![Health](https://img.shields.io/badge/API%20HEALTH-STATUS-brightgreen?style=for-the-badge)](#api-reference)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.11+" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-Migration-6BA539?style=flat-square" alt="Alembic migrations" />
+  <img src="https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt6 desktop client" />
+  <img src="https://img.shields.io/badge/NSE-Market%20Data-0066CC?style=flat-square" alt="NSE market data" />
+  <img src="https://img.shields.io/badge/yfinance-Fallback-8B00FF?style=flat-square" alt="yfinance fallback" />
+  <img src="https://img.shields.io/badge/Uvicorn-ASGI-499848?style=flat-square" alt="Uvicorn ASGI server" />
+</p>
 
-<br/>
-![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-Migration-6BA539?style=flat-square)
-![PyQt6](https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat-square&logo=qt&logoColor=white)
-![NSE](https://img.shields.io/badge/NSE-Market%20Data-0066CC?style=flat-square)
-![yfinance](https://img.shields.io/badge/yfinance-Fallback-8B00FF?style=flat-square)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-499848?style=flat-square)
-
----
+<hr />
 
 ## 📌 Table of Contents
 
